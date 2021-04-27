@@ -1,0 +1,5 @@
+pip==20.2.3
+pyusb==1.1.1
+libusb==1.0.23b7
+requests==2.22.0
+beautifulsoup4==4.8.2
